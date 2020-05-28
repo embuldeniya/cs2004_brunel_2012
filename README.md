@@ -1,4 +1,4 @@
 # cs2004_brunel_2012
 
 
-# JAVA 
+#### JAVA - learning about  Algorithms and their Applications 
